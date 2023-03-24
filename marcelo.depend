@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1679047962 source:/home/alunos/Downloads/marcelo/forca.cpp
+	"forca.h"
+
+1679047962 /home/alunos/Downloads/marcelo/forca.h
+	<iostream>
+
+1679050013 source:/home/alunos/Downloads/marcelo/velha.cpp
+	"velha.h"
+
+1679049221 /home/alunos/Downloads/marcelo/velha.h
+	<iostream>
+
+1679049722 source:/home/alunos/Downloads/marcelo/main.cpp
+	"forca.h"
+	"velha.h"
+
+1679047962 source:/var/www/mmj/marcelo/forca.cpp
+	"forca.h"
+
+1679047962 /var/www/mmj/marcelo/forca.h
+	<iostream>
+
+1679050501 source:/var/www/mmj/marcelo/main.cpp
+	"forca.h"
+	"velha.h"
+
+1679049221 /var/www/mmj/marcelo/velha.h
+	<iostream>
+
+1679050013 source:/var/www/mmj/marcelo/velha.cpp
+	"velha.h"
+
+1679655128 source:/var/www/mmj/marcelo/senha.cpp
+	"senha.h"
+
+1679655128 /var/www/mmj/marcelo/senha.h
+	<iostream>
+
